@@ -5,7 +5,7 @@ To install it, download the rotate_creds.zip file onto the machine running Cycle
 
 ``` bash
 cd /tmp
-wget -O rotate_creds.zip https://aka.ms/cyclecloud/creds-rotation
+wget -O rotate_creds.zip https://aka.ms/cyclecloud/creds-rotation/download
 unzip -q rotate_creds.zip
 cd /tmp/rotate_creds
 ./install.sh
